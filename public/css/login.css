@@ -1,0 +1,248 @@
+      .modal-overlay {
+          position: fixed;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background-color: rgba(0, 0, 0, 0.6);
+          z-index: 1000;
+          display: none;
+      }
+
+      .modal-container {
+          position: fixed;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          background: white;
+          border-radius: 8px;
+          width: 400px;
+          max-width: 90vw;
+          box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+          z-index: 1001;
+      }
+
+      .modal-header {
+          padding: 30px 40px 20px;
+          text-align: center;
+          border-bottom: none;
+          position: relative;
+      }
+
+      .close-btn {
+          position: absolute;
+          top: 20px;
+          right: 20px;
+          background: none;
+          border: none;
+          font-size: 24px;
+          color: #666;
+          padding: 0;
+          width: 30px;
+          height: 30px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+      }
+
+      .close-btn:hover {
+          color: #333;
+      }
+
+      .cnbc-logo {
+          width: 80px;
+          height: auto;
+          margin-bottom: 20px;
+      }
+
+      .modal-title {
+          font-size: 24px;
+          font-weight: 600;
+          color: #333;
+          margin-bottom: 0;
+      }
+
+      .modal-body {
+          padding: 0 40px 40px;
+      }
+
+      .form-group {
+          margin-bottom: 20px;
+      }
+
+      .form-label {
+          display: block;
+          margin-bottom: 8px;
+          font-weight: 500;
+          color: #333;
+          font-size: 14px;
+      }
+
+      .form-control {
+          width: 100%;
+          padding: 12px 16px;
+          border: 2px solid #ddd;
+          border-radius: 4px;
+          font-size: 16px;
+          transition: border-color 0.3s ease;
+          background-color: #fff;
+      }
+
+      .form-control:focus {
+          outline: none;
+          border-color: #1976d2;
+          box-shadow: 0 0 0 3px rgba(25, 118, 210, 0.1);
+      }
+
+      .password-container {
+          position: relative;
+      }
+
+      .password-toggle {
+          position: absolute;
+          right: 12px;
+          top: 50%;
+          transform: translateY(-50%);
+          background: none;
+          border: none;
+          color: #666;
+          cursor: pointer;
+          font-size: 16px;
+      }
+
+      .checkbox-container {
+          display: flex;
+          align-items: center;
+          margin-bottom: 25px;
+      }
+
+      .checkbox-container input[type="checkbox"] {
+          margin-right: 8px;
+          transform: scale(1.1);
+      }
+
+      .checkbox-label {
+          font-size: 14px;
+          color: #666;
+          margin: 0;
+      }
+
+      /* .btn-primary {
+          width: 100%;
+          padding: 14px;
+          background-color: #1976d2;
+          border: none;
+          border-radius: 4px;
+          color: white;
+          font-size: 16px;
+          font-weight: 600;
+          cursor: pointer;
+          transition: background-color 0.3s ease;
+          margin-bottom: 20px;
+      } */
+      /*
+      .btn-primary:hover {
+          background-color: #1565c0;
+      } */
+
+      .btn-primary:disabled {
+          background-color: #ccc;
+          cursor: not-allowed;
+      }
+
+      .forgot-password {
+          text-align: center;
+          margin-bottom: 20px;
+      }
+
+      .forgot-password a {
+          color: #1976d2;
+          text-decoration: none;
+          font-size: 14px;
+      }
+
+      .forgot-password a:hover {
+          text-decoration: underline;
+      }
+
+      .signup-link {
+          text-align: center;
+          font-size: 14px;
+          color: #666;
+      }
+
+      .signup-link a {
+          color: #1976d2;
+          text-decoration: none;
+          font-weight: 600;
+      }
+
+      .signup-link a:hover {
+          text-decoration: underline;
+      }
+
+      .footer-text {
+          text-align: center;
+          font-size: 12px;
+          color: #999;
+          margin-top: 20px;
+          line-height: 1.4;
+      }
+
+      .footer-text a {
+          color: #1976d2;
+          text-decoration: none;
+      }
+
+      .footer-text a:hover {
+          text-decoration: underline;
+      }
+
+      /* Demo buttons */
+      /* .demo-buttons {
+          text-align: center;
+          margin-bottom: 30px;
+      } */
+
+      .demo-btn {
+          margin: 0 5px;
+          padding: 10px 20px;
+          background-color: #1976d2;
+          color: white;
+          border: none;
+          border-radius: 4px;
+          cursor: pointer;
+          font-size: 14px;
+      }
+
+      .demo-btn:hover {
+          background-color: #1565c0;
+      }
+
+      /* Register form specific styles */
+      .name-fields {
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          gap: 15px;
+      }
+
+      /* Show/hide forms */
+      .form-container {
+          display: none;
+      }
+
+      .form-container.active {
+          display: block;
+      }
+
+      .brand {
+          font-weight: 800;
+          color: #0d0c22;
+          font-size: 1.9rem;
+          text-align: center;
+      }
+
+      .brand span {
+          color: #fa9a4e;
+          font-weight: 800;
+      }
