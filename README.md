@@ -11,10 +11,8 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
     <img src="https://img.shields.io/badge/News-Platform-red?style=for-the-badge" alt="News">
     <img src="https://img.shields.io/badge/AI-Chatbot-blue?style=for-the-badge" alt="AI Chatbot">
-    <img src="https://img.shields.io/badge/Full_Stack-Developer-purple?style=for-the-badge" alt="Full Stack">
 </p>
 
 ## 📰 Tentang Prime News
