@@ -259,56 +259,45 @@ Prime-News/
 ├── app/
 │   ├── Http/Controllers/
 │   │   ├── NewsController.php      # News management
-│   │   ├── SearchController.php    # Search functionality
-│   │   ├── ChatbotController.php   # Chatbot integration
 │   │   └── UserController.php      # User management
 │   ├── Models/
 │   │   ├── News.php                # News model
-│   │   ├── Category.php            # Category model
 │   │   ├── User.php                # User model
-│   │   └── ChatHistory.php         # Chat history model
-│   ├── Services/
-│   │   ├── NewsService.php         # News business logic
-│   │   ├── SearchService.php       # Search functionality
-│   │   └── ChatbotService.php      # Flowise integration
-│   └── Policies/
-│       └── NewsPolicy.php          # News authorization
 ├── database/
 │   ├── migrations/
+│   │   ├── create_users.php
 │   │   ├── create_news_table.php
-│   │   ├── create_categories_table.php
-│   │   └── create_chat_histories_table.php
+│   │   └── create_sessions_table.php
 │   └── seeders/
 │       ├── NewsSeeder.php
 │       └── CategorySeeder.php
 ├── flowise/
-│   ├── workflow.json               # Flowise workflow export
+│   ├── chat from db sql Chatflow (1).json               # Flowise workflow export
 ├── public/
 │   ├── css/
-│   │   ├── app.css                 # Main stylesheet
-│   │   └── news.css                # News-specific styles
+│   │   ├── dashboard.css           # Admin dashboard styles
+│   │   ├── footer.css              # Footer styles
+│   │   ├── layoutMaster.css        # Master layout styles
+│   │   ├── login.css               # Login page styles
+│   │   ├── search.css              # Search functionality styles
+│   │   ├── upNews.css              # Upload news styles
+│   │   └── view.css                # Article view styles
 │   ├── js/
-│   │   ├── app.js                  # Main JavaScript
-│   │   ├── search.js               # Search functionality
-│   │   └── chatbot.js              # Chatbot integration
-│   ├── images/
-│   │   └── news/                   # News images
-│   └── uploads/                    # User uploads
+│   │   ├── category.js             # Category management
+│   │   └── login.js                # Login functionality
+│   └── images/                     # Static images
 ├── resources/
-│   ├── views/
-│   │   ├── layouts/
-│   │   │   ├── app.blade.php       # Main layout
-│   │   │   └── master.blade.php    # Master layout with chatbot
-│   │   ├── news/
-│   │   │   ├── index.blade.php     # News listing
-│   │   │   └── show.blade.php      # Single news
-│   │   ├── search/
-│   │   │   └── results.blade.php   # Search results
-│   │   └── chatbot/
-│   │       └── widget.blade.php    # Chatbot widget
-│   └── js/
-│       └── components/
-│           └── ChatWidget.js       # Chat component
+│   └── views/
+│       ├── layout/
+│       │   ├── master.blade.php    # Master layout with chatbot
+│       ├── backup.blade.php    # Backup layout
+│       ├── category.blade.php  # Category layout
+│       ├── dashboard.blade.php # Admin dashboard layout
+│       ├── edit.blade.php      # Edit layout
+│       ├── home.blade.php      # Home layout
+│       ├── search.blade.php    # Search layout
+│       ├── upNews.blade.php    # Upload news layout
+│       └── viewNews.blade.php  # View news layout
 └── routes/
     ├── web.php                     # Web routes
     └── api.php                     # API routes
