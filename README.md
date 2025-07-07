@@ -109,16 +109,7 @@
    npm install
    ```
 
-3. **Environment Setup**
-   ```bash
-   # Copy environment file
-   cp .env.example .env
-   
-   # Generate application key
-   php artisan key:generate
-   ```
-
-4. **Database Configuration**
+3. **Database Configuration**
    
    Edit file `.env`:
    ```env
@@ -130,7 +121,7 @@
    DB_PASSWORD=your_password
    ```
 
-5. **Database Setup**
+4. **Database Setup**
    ```bash
    # Create database
    mysql -u root -p -e "CREATE DATABASE prime_news;"
@@ -142,7 +133,7 @@
    php artisan db:seed
    ```
 
-6. **Storage Setup**
+5. **Storage Setup**
    ```bash
    # Create storage symlink
    php artisan storage:link
@@ -151,7 +142,7 @@
    chmod -R 775 storage bootstrap/cache
    ```
 
-7. **Build Assets**
+6. **Build Assets**
    ```bash
    # Build assets for production
    npm run build
