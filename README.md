@@ -17,10 +17,9 @@
 
 ## 🖼️ Image
 
-<!-- Hero / Homepage -->
 <p align="center">
-  <a href="https://drive.google.com/uc?export=view&id=1AzLDpKLYlvfb64MUJhNwgBrCO9Zq_3L8">
-    <img src="https://drive.google.com/uc?export=view&id=1AzLDpKLYlvfb64MUJhNwgBrCO9Zq_3L8"
+  <a href="https://drive.google.com/uc?export=view&id=1QGyJIRJP2mw4vpflNz8tmFJTRBtulz7K">
+    <img src="https://drive.google.com/uc?export=view&id=1QGyJIRJP2mw4vpflNz8tmFJTRBtulz7K"
          alt="Tampilan Halaman Beranda" width="960">
   </a>
 </p>
@@ -29,8 +28,8 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://drive.google.com/uc?export=view&id=1QGyJIRJP2mw4vpflNz8tmFJTRBtulz7K">
-        <img src="https://drive.google.com/uc?export=view&id=1QGyJIRJP2mw4vpflNz8tmFJTRBtulz7K"
+      <a href="https://drive.google.com/uc?export=view&id=1AzLDpKLYlvfb64MUJhNwgBrCO9Zq_3L8">
+        <img src="https://drive.google.com/uc?export=view&id=1AzLDpKLYlvfb64MUJhNwgBrCO9Zq_3L8"
              alt="Tampilan Halaman AI Chatbot 1" width="440">
       </a>
     </td>
