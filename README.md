@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://drive.google.com/uc?export=view&id=1QGyJIRJP2mw4vpflNz8tmFJTRBtulz7K">
     <img src="https://drive.google.com/uc?export=view&id=1QGyJIRJP2mw4vpflNz8tmFJTRBtulz7K"
-         alt="Tampilan Halaman Beranda" width="960">
+         alt="Tampilan Halaman Beranda" width="300">
   </a>
 </p>
 
@@ -30,13 +30,13 @@
     <td align="center" width="50%">
       <a href="https://drive.google.com/uc?export=view&id=1AzLDpKLYlvfb64MUJhNwgBrCO9Zq_3L8">
         <img src="https://drive.google.com/uc?export=view&id=1AzLDpKLYlvfb64MUJhNwgBrCO9Zq_3L8"
-             alt="Tampilan Halaman AI Chatbot 1" width="440">
+             alt="Tampilan Halaman AI Chatbot 1" width="150">
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://drive.google.com/uc?export=view&id=1ktU005M0hNwFypykdCqYW7tZwKHN47nk">
         <img src="https://drive.google.com/uc?export=view&id=1ktU005M0hNwFypykdCqYW7tZwKHN47nk"
-             alt="Tampilan Fitur AI Chatbot 2" width="440">
+             alt="Tampilan Fitur AI Chatbot 2" width="150">
       </a>
     </td>
   </tr>
