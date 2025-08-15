@@ -15,6 +15,10 @@
     <img src="https://img.shields.io/badge/AI-Chatbot-blue?style=for-the-badge" alt="AI Chatbot">
 </p>
 
+## 📰 Tentang Prime News
+
+**Prime News** adalah platform berita digital modern yang dikembangkan mandiri, menawarkan pengalaman membaca yang interaktif dan informatif. Dengan memadukan teknologi web dan kecerdasan buatan, kami hadir untuk pengalaman pengguna yang unik Platform ini tidak hanya menyajikan berita terkini, tetapi juga memungkinkan pengguna untuk berinteraksi dengan konten melalui chatbot AI yang terhubung langsung dengan database, memberikan pengalaman yang lebih personal dan interaktif.
+
 ## 🖼️ Image
 
 <p align="center">
@@ -41,10 +45,6 @@
     </td>
   </tr>
 </table>
-
-## 📰 Tentang Prime News
-
-**Prime News** adalah platform berita digital modern yang dikembangkan mandiri, menawarkan pengalaman membaca yang interaktif dan informatif. Dengan memadukan teknologi web dan kecerdasan buatan, kami hadir untuk pengalaman pengguna yang unik Platform ini tidak hanya menyajikan berita terkini, tetapi juga memungkinkan pengguna untuk berinteraksi dengan konten melalui chatbot AI yang terhubung langsung dengan database, memberikan pengalaman yang lebih personal dan interaktif.
 
 ### 🎯 Visi & Misi
 
