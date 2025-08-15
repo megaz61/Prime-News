@@ -17,8 +17,8 @@
 
 ## Image
 <div align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1AzLDpKLYlvfb64MUJhNwgBrCO9Zq_3L8" alt="Tampilan Halaman Beranda" width="400"/>
     <img src="https://drive.google.com/uc?export=view&id=1QGyJIRJP2mw4vpflNz8tmFJTRBtulz7K" alt="Tampilan Halaman Admin" width="400"/>
+    <img src="https://drive.google.com/uc?export=view&id=1AzLDpKLYlvfb64MUJhNwgBrCO9Zq_3L8" alt="Tampilan Halaman Beranda" width="400"/>
     <img src="https://drive.google.com/uc?export=view&id=1ktU005M0hNwFypykdCqYW7tZwKHN47nk" alt="Tampilan Fitur AI Chatbot" width="400"/>
 </div>
 
