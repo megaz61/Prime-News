@@ -15,6 +15,14 @@
     <img src="https://img.shields.io/badge/AI-Chatbot-blue?style=for-the-badge" alt="AI Chatbot">
 </p>
 
+## Image
+<div align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1AzLDpKLYlvfb64MUJhNwgBrCO9Zq_3L8" alt="Tampilan Halaman Beranda" width="400"/>
+    <img src="https://drive.google.com/uc?export=view&id=1bqALD-vNZo59ARLDgS45rNHX2LtJlf_9" alt="Tampilan Halaman Artikel" width="400"/>
+    <img src="https://drive.google.com/uc?export=view&id=1hQQUa84CAYQJcS59w6xG0U7VM3LfkDHn" alt="Tampilan Halaman Admin" width="400"/>
+    <img src="https://drive.google.com/uc?export=view&id=1ktU005M0hNwFypykdCqYW7tZwKHN47nk" alt="Tampilan Fitur AI Chatbot" width="400"/>
+</div>
+
 ## 📰 Tentang Prime News
 
 **Prime News** adalah platform berita digital modern yang dikembangkan mandiri, menawarkan pengalaman membaca yang interaktif dan informatif. Dengan memadukan teknologi web dan kecerdasan buatan, kami hadir untuk pengalaman pengguna yang unik Platform ini tidak hanya menyajikan berita terkini, tetapi juga memungkinkan pengguna untuk berinteraksi dengan konten melalui chatbot AI yang terhubung langsung dengan database, memberikan pengalaman yang lebih personal dan interaktif.
